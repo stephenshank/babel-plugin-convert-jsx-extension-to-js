@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-convert-jsx-extension-to-js",
+  "version": "0.0.1",
+  "description": "Convert .jsx file extensions to .js in imports for making React libraries",
+  "main": "src/index.js",
+  "repository": "http://github.com/stephenshank/babel-plugin-convert-jsx-extension-to-js",
+  "author": "Stephen D. Shank <sshank314@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "babel-plugin"
+  ]
+}
